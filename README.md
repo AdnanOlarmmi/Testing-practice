@@ -56,23 +56,19 @@ git clone https://github.com/AdnanOlarmmi/Testing-practice.git
 - Open the `index.html` in your browser
 
 ### Run Tests
-To track linter errors locally follow these steps:  
+To check for tests.
 
 Download all the dependencies run:
 ```
 npm install
 ```
-Track HTML linter errors run:
+Track Test Errors run:
 ```
-npx hint .
+npm test
 ```
-Track CSS linter errors run:
+or
 ```
-npx stylelint "**/*.{css,scss}"
-```
-Track JavaScript linter errors run:
-```
-npx eslint .
+npm t
 ```
 
 [Check out the Jest documentation for more information](https://jestjs.io/)
