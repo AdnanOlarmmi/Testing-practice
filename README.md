@@ -88,7 +88,7 @@ npm t
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Webpack-demo/issues).
+Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Testing-practice/issues).
 
 ## Show your support
 
